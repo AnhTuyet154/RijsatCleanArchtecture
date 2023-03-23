@@ -1,0 +1,15 @@
+C:\Users\TUYET XINH DEP\source\repos\RijsatCleanArchtecture\Applicationn\bin\Debug\net6.0\Applicationn.deps.json
+C:\Users\TUYET XINH DEP\source\repos\RijsatCleanArchtecture\Applicationn\bin\Debug\net6.0\Applicationn.dll
+C:\Users\TUYET XINH DEP\source\repos\RijsatCleanArchtecture\Applicationn\bin\Debug\net6.0\Applicationn.pdb
+C:\Users\TUYET XINH DEP\source\repos\RijsatCleanArchtecture\Applicationn\bin\Debug\net6.0\Domain.dll
+C:\Users\TUYET XINH DEP\source\repos\RijsatCleanArchtecture\Applicationn\bin\Debug\net6.0\Domain.pdb
+C:\Users\TUYET XINH DEP\source\repos\RijsatCleanArchtecture\Applicationn\obj\Debug\net6.0\Applicationn.csproj.AssemblyReference.cache
+C:\Users\TUYET XINH DEP\source\repos\RijsatCleanArchtecture\Applicationn\obj\Debug\net6.0\Applicationn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUYET XINH DEP\source\repos\RijsatCleanArchtecture\Applicationn\obj\Debug\net6.0\Applicationn.AssemblyInfoInputs.cache
+C:\Users\TUYET XINH DEP\source\repos\RijsatCleanArchtecture\Applicationn\obj\Debug\net6.0\Applicationn.AssemblyInfo.cs
+C:\Users\TUYET XINH DEP\source\repos\RijsatCleanArchtecture\Applicationn\obj\Debug\net6.0\Applicationn.csproj.CoreCompileInputs.cache
+C:\Users\TUYET XINH DEP\source\repos\RijsatCleanArchtecture\Applicationn\obj\Debug\net6.0\Applicationn.csproj.CopyComplete
+C:\Users\TUYET XINH DEP\source\repos\RijsatCleanArchtecture\Applicationn\obj\Debug\net6.0\Applicationn.dll
+C:\Users\TUYET XINH DEP\source\repos\RijsatCleanArchtecture\Applicationn\obj\Debug\net6.0\refint\Applicationn.dll
+C:\Users\TUYET XINH DEP\source\repos\RijsatCleanArchtecture\Applicationn\obj\Debug\net6.0\Applicationn.pdb
+C:\Users\TUYET XINH DEP\source\repos\RijsatCleanArchtecture\Applicationn\obj\Debug\net6.0\ref\Applicationn.dll
